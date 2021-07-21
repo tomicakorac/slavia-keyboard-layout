@@ -58,7 +58,7 @@ AltGr is the Alt key on the right side of you Space bar. It is equivalent to pre
 
 
 ## FAQ
-
+---
 **Q** Is this layout free?
 **A** Yes, Slavia keyboard layout is and always will remain free to use, modify and distribute under the GNU General Public License.
 ---

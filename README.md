@@ -10,8 +10,8 @@ This is a keyboard layout designed to write Cyrillic script. It is loosely based
 
 To make the 'Slavia' keyboard layout available on your Windows installation, do the following:
 
-1. Download the 'Slavia.1.0.msi' installation package;
-2. Double-click the downloaded installation package to run it;
+1. Download the 'Slavia.1.0.rar' installation package from the 'dist' folder;
+2. Extract the downloaded package, double-click the downloaded 'setup.exe' file to run it;
 3. Follow the installation wizard instructions.
 
 Once installed, to enable the 'Slavia' keyboard layout, do the following:

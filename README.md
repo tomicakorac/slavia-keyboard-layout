@@ -86,7 +86,9 @@ AltGr is the Alt key on the right side of you Space bar. It is equivalent to pre
 **Q** Do you accept domations?
 
 **A** No, sorry. Please redirect your donation to a charity of your choice.
+
 ---
+
 **Q** I have a question/suggestion/compliment/complaint, how do I report it?
 
 **A** Please report your thoughts as an issue to this repository.

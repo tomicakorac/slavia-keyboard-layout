@@ -58,21 +58,35 @@ AltGr is the Alt key on the right side of you Space bar. It is equivalent to pre
 
 
 ## FAQ
----
+
 **Q** Is this layout free?
+
 **A** Yes, Slavia keyboard layout is and always will remain free to use, modify and distribute under the GNU General Public License.
+
 ---
+
 **Q** Why is Slavia layout listed under Serbian language in my system? I'm using it to write in another language.
+
 **A** Because stubborn Microsoft developers refuse to correct their ages old bug where a keyboard layout needs to be a sub-set of a language. In reality, a writing script generally has a one-to-many relationship with spoken languages. In turn, a language will always be related to only one script. Microsoft, Google, Apple and other beasts refuse to acknowledge this for reasons known to them. To express your dissatisfaction, please write to Microsoft using the following link: https://support.microsoft.com/en-us/contactus?ws=support&SegNo=2
+
 ---
+
 **Q** Which languages can I write in with this layout?
+
 **A** You can use this layout to write in any of the living or historical Slavic languages, regardless whether they are usually written with Cyrillic. Supported languages that natively use Cyrillic are: Belorussian, Bulgarian, Russian, Serbocroatian, Ukrainian and Old Church Slavonic including all of its variants (Old Bulgarian, Serboslavic, Russoserbian, Slavoserbian etc.). Supported languages that do not natively use Cyrillic are: Czech, Polish, Slovak and Slovene. These lists are not exhaustive and there are many other languages that can benefit from the Slavia layout.
+
 ---
+
 **Q** Do you accept pull requests?
+
 **A** Yes! All contributions are welcome.
+
 ---
+
 **Q** Do you accept domations?
+
 **A** No, sorry. Please redirect your donation to a charity of your choice.
 ---
 **Q** I have a question/suggestion/compliment/complaint, how do I report it?
+
 **A** Please report your thoughts as an issue to this repository.

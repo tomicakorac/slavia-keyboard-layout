@@ -37,24 +37,24 @@ The layout has four levels of input: default, Shift, AltGr (Ctrl+Alt), and Shift
 
 ### Default level
 
-![Default level]("/doc/01 slavia.jpg" "Slavia layout default level")
+![Default level](https://raw.githubusercontent.com/tomicakorac/slavia-keyboard-layout/main/doc/01%20slavia.jpg "Slavia layout default level")
 
 
 ### Shift level
 
-![Shift level]("/doc/02 slavia-shift.jpg" "Slavia layout Shift level")
+![Shift level](https://raw.githubusercontent.com/tomicakorac/slavia-keyboard-layout/main/doc/02%20slavia-shift.jpg "Slavia layout Shift level")
 
 
 ### AltGr level
 
-![AltGr level]("/doc/03 slavia-altgr.jpg" "Slavia layout AltGr level")
+![AltGr level](https://raw.githubusercontent.com/tomicakorac/slavia-keyboard-layout/main/doc/03%20slavia-altgr.jpg "Slavia layout AltGr level")
 
 AltGr is the Alt key on the right side of you Space bar. It is equivalent to pressing Ctrl+Alt at the same time. In the unlikely event when your keyboard vendor has assigned a different functionality to your right Alt key, you can also use the Ctrl+Alt combination to access this third (and fourth) keyboard layout level.
 
 
 ### Shift+AltGr level
 
-![Shift+AltGr level]("/doc/04 slavia-shift-altgr.jpg" "Slavia layout Shift+AltGr level")
+![Shift+AltGr level](https://raw.githubusercontent.com/tomicakorac/slavia-keyboard-layout/main/doc/04%20slavia-shift-altgr.jpg "Slavia layout Shift+AltGr level")
 
 
 ## FAQ
